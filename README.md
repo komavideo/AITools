@@ -32,3 +32,5 @@ https://www.promptingguide.ai/zh
 ### Google Veo
 https://deepmind.google/technologies/veo/
 
+### OpenAI Sora
+https://openai.com/index/sora/

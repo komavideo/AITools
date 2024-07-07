@@ -14,3 +14,6 @@ https://gemini.google.com/
 ### Google AI Studio
 https://aistudio.google.com/
 
+### Microsoft Copilot
+https://copilot.microsoft.com/
+

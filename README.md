@@ -10,3 +10,7 @@ https://claude.ai/
 
 ### Gemini
 https://gemini.google.com/
+
+### Google AI Studio
+https://aistudio.google.com/
+

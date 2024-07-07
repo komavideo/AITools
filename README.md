@@ -26,3 +26,9 @@ https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview
 
 ### 提示工程指南
 https://www.promptingguide.ai/zh
+
+## 视频生成
+
+### Google Veo
+https://deepmind.google/technologies/veo/
+

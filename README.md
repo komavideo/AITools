@@ -19,6 +19,9 @@ https://copilot.microsoft.com/
 ### Google AI Studio
 https://aistudio.google.com/
 
+### LangChain
+https://www.langchain.com/
+
 ## 提示词工程（必须学）
 
 ### 提示工程指南
@@ -41,7 +44,3 @@ https://openai.com/index/sora/
 ### Open-Sora（让所有人都能轻松制作高效视频）
 https://github.com/hpcaitech/Open-Sora
 
-## 开发框架
-
-### LangChain
-https://www.langchain.com/

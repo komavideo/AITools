@@ -34,3 +34,8 @@ https://deepmind.google/technologies/veo/
 
 ### OpenAI Sora
 https://openai.com/index/sora/
+
+## 开发框架
+
+### LangChain
+https://www.langchain.com/

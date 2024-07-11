@@ -46,6 +46,9 @@ https://github.com/hpcaitech/Open-Sora
 
 ## 图片生成
 
+### Midjourney
+https://www.midjourney.com/home
+
 ### CGDream
 https://cgdream.ai/
 

@@ -1,6 +1,6 @@
 # AITools
 
-## 每天使用
+## Chat工具(每天使用)
 
 ### ChatGPT
 https://chatgpt.com/
@@ -43,4 +43,9 @@ https://openai.com/index/sora/
 
 ### Open-Sora（让所有人都能轻松制作高效视频）
 https://github.com/hpcaitech/Open-Sora
+
+## 图片生成
+
+### CGDream
+https://cgdream.ai/
 

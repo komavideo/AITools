@@ -14,6 +14,9 @@ https://gemini.google.com/
 ### Microsoft Copilot
 https://copilot.microsoft.com/
 
+### Perplexity(检索型ChatBot)
+https://www.perplexity.ai/
+
 ## 开发工具
 
 ### Google AI Studio

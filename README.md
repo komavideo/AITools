@@ -34,7 +34,8 @@ https://www.promptingguide.ai/zh
 https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview
 
 ### OpenAI提示词
-https://platform.openai.com/docs/guides/prompt-engineering
+https://platform.openai.com/docs/guides/prompt-engineering  
+https://platform.openai.com/docs/examples  
 
 ## 视频生成
 

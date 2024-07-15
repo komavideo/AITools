@@ -51,6 +51,9 @@ https://openai.com/index/sora/
 ### Open-Sora（让所有人都能轻松制作高效视频）
 https://github.com/hpcaitech/Open-Sora
 
+### D-ID
+https://www.d-id.com/
+
 ## 图片生成
 
 ### Midjourney
@@ -61,3 +64,4 @@ https://cgdream.ai/
 
 ### Canva
 https://www.canva.com/
+

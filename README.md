@@ -59,3 +59,5 @@ https://www.midjourney.com/home
 ### CGDream
 https://cgdream.ai/
 
+### Canva
+https://www.canva.com/

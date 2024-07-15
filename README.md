@@ -1,6 +1,6 @@
 # AITools
 
-## Chat工具(每天使用)
+## Chat工具
 
 ### ChatGPT
 https://chatgpt.com/

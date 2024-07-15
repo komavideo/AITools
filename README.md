@@ -37,6 +37,9 @@ https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview
 https://platform.openai.com/docs/guides/prompt-engineering  
 https://platform.openai.com/docs/examples  
 
+### ChatGPT Prompt Engineering for Developers(吴恩达教授)
+https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/
+
 ## 视频生成
 
 ### Google Veo

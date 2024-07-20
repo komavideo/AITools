@@ -54,6 +54,9 @@ https://github.com/hpcaitech/Open-Sora
 ### Runway
 https://runwayml.com/
 
+### Luma Dream Machine
+https://lumalabs.ai/dream-machine
+
 ### D-ID
 https://www.d-id.com/
 

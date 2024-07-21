@@ -74,3 +74,5 @@ https://cgdream.ai/
 ### Canva
 https://www.canva.com/
 
+### PromptHero(帮助生成图片的提示词)
+https://prompthero.com/

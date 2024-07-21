@@ -76,3 +76,8 @@ https://www.canva.com/
 
 ### PromptHero(帮助生成图片的提示词)
 https://prompthero.com/
+
+## 音乐
+
+### 免费音乐
+https://stocktune.com/

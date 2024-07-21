@@ -58,7 +58,8 @@ https://runwayml.com/
 https://lumalabs.ai/dream-machine
 
 ### D-ID
-https://www.d-id.com/
++ https://www.d-id.com/
++ https://studio.d-id.com/
 
 ## 图片生成
 

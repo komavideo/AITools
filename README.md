@@ -65,6 +65,9 @@ https://www.d-id.com/
 ### Midjourney
 https://www.midjourney.com/home
 
+### Leonardo AI
+https://leonardo.ai/
+
 ### CGDream
 https://cgdream.ai/
 

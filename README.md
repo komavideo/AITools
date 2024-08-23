@@ -11,6 +11,9 @@ https://claude.ai/
 ### Gemini
 https://gemini.google.com/
 
+### HuggingChat
+https://huggingface.co/chat/
+
 ### Microsoft Copilot
 https://copilot.microsoft.com/
 

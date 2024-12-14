@@ -43,6 +43,9 @@ https://v0.dev/
 [商业版](https://bolt.new/)
 [开源版](https://bolt.diy/)
 
+### Replit
+https://replit.com/
+
 ## 提示词工程（必须学）
 
 ### 提示工程指南

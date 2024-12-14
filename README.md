@@ -57,6 +57,7 @@ https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-develop
 https://deepmind.google/technologies/veo/
 
 ### OpenAI Sora
+https://sora.com/  
 https://openai.com/index/sora/
 
 ### Open-Sora（让所有人都能轻松制作高效视频）

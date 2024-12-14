@@ -100,6 +100,9 @@ https://prompthero.com/
 ### FLUX AI
 https://flux1.org/
 
+### ImageFX(Google)
+https://labs.google/fx/tools/image-fx
+
 ## 音乐
 
 ### 免费音乐

@@ -20,8 +20,13 @@ https://huggingface.co/chat/
 ### Microsoft Copilot
 https://copilot.microsoft.com/
 
-### Perplexity(检索型ChatBot)
+## Web搜索
+
+### Perplexity
 https://www.perplexity.ai/
+
+### Felo
+https://felo.ai/search
 
 ## 开发工具
 

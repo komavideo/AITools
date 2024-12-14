@@ -36,6 +36,13 @@ https://aistudio.google.com/
 ### LangChain
 https://www.langchain.com/
 
+### v0
+https://v0.dev/
+
+### Bolt.new
+[商业版](https://bolt.new/)
+[开源版](https://bolt.diy/)
+
 ## 提示词工程（必须学）
 
 ### 提示工程指南

@@ -93,3 +93,9 @@ https://prompthero.com/
 
 ### 免费音乐
 https://stocktune.com/
+
+## 内容生成
+
+### Napkin AI
+https://www.napkin.ai/
+

@@ -97,6 +97,9 @@ https://www.canva.com/
 ### PromptHero(帮助生成图片的提示词)
 https://prompthero.com/
 
+### FLUX AI
+https://flux1.org/
+
 ## 音乐
 
 ### 免费音乐

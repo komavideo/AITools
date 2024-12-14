@@ -11,6 +11,9 @@ https://claude.ai/
 ### Gemini
 https://gemini.google.com/
 
+### NotebookLM
+https://notebooklm.google.com/
+
 ### HuggingChat
 https://huggingface.co/chat/
 

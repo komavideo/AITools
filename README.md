@@ -111,6 +111,9 @@ https://labs.google/fx/tools/image-fx
 ### 免费音乐
 https://stocktune.com/
 
+### Suno
+https://suno.com/
+
 ## 内容生成
 
 ### Napkin AI

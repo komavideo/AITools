@@ -119,3 +119,6 @@ https://suno.com/
 ### Napkin AI
 https://www.napkin.ai/
 
+### Gamma
+https://gamma.app/
+

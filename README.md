@@ -116,9 +116,12 @@ https://suno.com/
 
 ## 内容生成
 
-### Napkin AI
+### Napkin AI(图解生成)
 https://www.napkin.ai/
 
-### Gamma
+### Gamma(生成发表展示资料，网站等)
 https://gamma.app/
+
+### Mapify(生成脑图)
+https://mapify.so/
 

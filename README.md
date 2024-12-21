@@ -106,6 +106,9 @@ https://flux1.org/
 ### ImageFX(Google)
 https://labs.google/fx/tools/image-fx
 
+### Whisk(Google)
+https://labs.google/fx/tools/whisk/faq
+
 ## 音乐
 
 ### 免费音乐

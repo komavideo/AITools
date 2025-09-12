@@ -1,5 +1,8 @@
 # AITools
 
+## AI生产力工具
+https://www.kdjingpai.com/
+
 ## Chat工具
 
 ### ChatGPT

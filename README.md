@@ -1,5 +1,12 @@
 # AITools
 
+## Goolge系列
+- [Whisk](https://labs.google/fx/ja/tools/whisk)
+- [Flow](https://labs.google/fx/ja/tools/flow)
+- [Stitch](https://stitch.withgoogle.com/)
+- [Vids](https://workspace.google.com/intl/ja/products/vids/)
+- [NotebookLM](https://notebooklm.google.com/)
+
 ## AI生产力工具
 https://www.kdjingpai.com/
 

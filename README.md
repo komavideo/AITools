@@ -7,6 +7,10 @@
 - [Vids](https://workspace.google.com/intl/ja/products/vids/)
 - [NotebookLM](https://notebooklm.google.com/)
 
+## Skill关联
+- [Skills.sh]((https://skills.sh/)
+- [Claude API - Agent Skills](https://platform.claude.com/docs/en/agents-and-tools/agent-skills/overview)
+
 ## AI生产力工具
 https://www.kdjingpai.com/
 
